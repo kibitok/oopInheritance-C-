@@ -1,0 +1,7 @@
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\OopInheritance\OopInheritance\bin\Debug\OopInheritance.exe.config
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\OopInheritance\OopInheritance\bin\Debug\OopInheritance.exe
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\OopInheritance\OopInheritance\bin\Debug\OopInheritance.pdb
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\OopInheritance\OopInheritance\obj\Debug\OopInheritance.csprojAssemblyReference.cache
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\OopInheritance\OopInheritance\obj\Debug\OopInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\OopInheritance\OopInheritance\obj\Debug\OopInheritance.exe
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\OopInheritance\OopInheritance\obj\Debug\OopInheritance.pdb
